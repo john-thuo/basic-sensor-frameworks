@@ -1,4 +1,4 @@
-BLINKING LED
+//BLINKING LED
 //program declaration
 void setup(){
  
